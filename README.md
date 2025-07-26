@@ -22,3 +22,6 @@ Nguyen Thi Hoang Anh, PhD - Foreign Trade University, HCMC Campus
 
 ## Timeline
 Project start to end: December 2024
+
+## Disclaimer
+This project is intended for educational purposes only.
