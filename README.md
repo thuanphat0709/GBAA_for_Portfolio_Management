@@ -2,9 +2,9 @@
 
 ## Overview
 
-This report focuses on personal finance planning, which involves understanding the client's needs through an Investment Policy Statement. 
-The Black-Litterman model is used to estimate the expected returns, while the DCC-Copula GARCH model is applied to estimate the covariance matrix for each asset class (Cash, Equity, Investment-grade Bonds, High-yield Bonds, and REITs). 
-Portfolio allocation is then carried out using the Goals-Based Asset Allocation (GBAA) method, where a set of pre-optimized modules is used to identify the module best suited for each specific client goal. 
+This report focuses on personal finance planning, which involves understanding the client's needs through an **Investment Policy Statement (IPS)**. 
+The **Black-Litterman model** is used to estimate the expected returns, while the **DCC-Copula GARCH** model is applied to estimate the covariance matrix for each asset class (Cash, Equity, Investment-grade Bonds, High-yield Bonds, and REITs). 
+Portfolio allocation is then carried out using the **Goals-Based Asset Allocation (GBAA) method**, where a set of pre-optimized modules is used to identify the module best suited for each specific client goal. 
 Subsequently, sub-portfolios are created within each asset class to further optimize the performance of the allocated assets. The portfolio outperformed its benchmark by 8.39% (15.09% vs. 6.70%).
 
 
